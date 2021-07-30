@@ -20,8 +20,11 @@ It stores the speech of the bot in sounddfiles folder of type mp3
 
 setup
 Using the terminal on Visual studio code, or cmd make sure to have the following
+
 Pip install pyaudio 
+
 Pip install ibm Watson
+
 After doing that you can run the file using the following command
 /path>  python transctibe.py 
 Then you will see the message recording started 
