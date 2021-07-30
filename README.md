@@ -12,11 +12,11 @@ The main file code that executes the process. It has the speech to text feature 
 
 
 
-It stores the transcript of the users input in textfiles folder 
+It stores the transcript of the users input in textfiles folder of type txt 
 
 
 
-It stores the speech of the bot in sounddfiles folder
+It stores the speech of the bot in sounddfiles folder of type mp3
 
 setup
 Using the terminal on Visual studio code, or cmd make sure to have the following
