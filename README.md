@@ -9,7 +9,13 @@ Holds the configuration for the speech to text feature from IBM Watson.
 
 Transcribe.py: 
 The main file code that executes the process. It has the speech to text feature connected, text to speech and both of them are connected to Watson assistant that I made the assistant would recommend a random item that might be useful to the user. 
+
+
+
 It stores the transcript of the users input in textfiles folder 
+
+
+
 It stores the speech of the bot in sounddfiles folder
 
 setup
