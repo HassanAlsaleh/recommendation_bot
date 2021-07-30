@@ -26,7 +26,9 @@ Pip install pyaudio
 Pip install ibm Watson
 
 After doing that you can run the file using the following command
+
 /path>  python transctibe.py 
+
 Then you will see the message recording started 
 You can say recommend, recommend an item or similar phrases that would prompt Watson assistant to respond with an item and it would be voiced back to you by the text to speech feature. 
 Then the bot will ask you if you want another item if you agree it will keep recommending you items until you say no 
