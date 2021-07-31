@@ -23,9 +23,9 @@ It stores the speech of the bot in sounddfiles folder of type mp3
 setup
 Using the terminal on Visual studio code, or cmd make sure to have the following
 
-Pip install pyaudio 
+pip install pyaudio 
 
-Pip install ibm Watson
+pip install ibm Watson
 
 pip install playsound
 
