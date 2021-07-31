@@ -20,7 +20,8 @@ It stores the transcript of the users input in textfiles folder of type txt
 
 It stores the speech of the bot in sounddfiles folder of type mp3
 
-setup
+setup:
+
 Using the terminal on Visual studio code, or cmd make sure to have the following
 
 pip install pyaudio 
