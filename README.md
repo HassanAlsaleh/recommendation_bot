@@ -2,6 +2,8 @@
 
 This repository is a part of the training at Smart Methods, and it is the item chat bot, but this time it is a voicechat bot.
 
+inside RecommendationVoiceBot
+
 Main Files:
 Speech.cfg:
 Holds the configuration for the speech to text feature from IBM Watson. 
