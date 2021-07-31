@@ -25,6 +25,10 @@ Pip install pyaudio
 
 Pip install ibm Watson
 
+pip install playsound
+
+pip install ibm_cloud_sdk_core
+
 After doing that you can run the file using the following command
 
 /path>  python transctibe.py 
