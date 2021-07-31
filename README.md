@@ -25,7 +25,7 @@ Using the terminal on Visual studio code, or cmd make sure to have the following
 
 pip install pyaudio 
 
-pip install ibm Watson
+pip install ibm_watson
 
 pip install playsound
 
